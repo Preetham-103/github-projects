@@ -66,7 +66,7 @@ Welcome to my project portfolio! This is a curated collection of the work I've d
 
 If any project catches your interest, feel free to explore the code or reach out for collaborations or contributions!
 
-📬 **LinkedIn**: [linkedin.com/in/preethamdundigalla](https://linkedin.com/in/preethamdundigalla)  
+📬 **LinkedIn**: [linkedin.com/in/preethamdundigalla](https://www.linkedin.com/in/preetham-dundigalla-b77283228/)  
 💻 **GitHub**: [github.com/Preetham-103](https://github.com/Preetham-103)
 
 ---
