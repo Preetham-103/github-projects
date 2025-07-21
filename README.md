@@ -22,7 +22,7 @@ Welcome to my project portfolio! This is a curated collection of the work I've d
 
 ### 🚀 NASA Space Science Interface
 - [NASA-Space-Science 👨‍🚀](https://github.com/Preetham-103/NASA-Space-Science)
-- A web application that interacts with NASA's public APIs to explore space missions, astronomy pictures, and planetary data.
+- A application which cleans and give visual data analysis of raw space data from NASA datastore.
 
 ---
 
